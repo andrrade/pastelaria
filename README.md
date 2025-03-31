@@ -6,7 +6,6 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Como Rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-link-do-projeto">Link do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 
@@ -70,12 +69,6 @@ Esse projeto foi desenvolvido utilizando:
 ```
 
 5. Acesse [http://localhost:3000](http://localhost:3000) no navegador ou dê um CTRL + clique no link que aparecer.
-
----
-
-## 🔗 Link do Projeto
-
-Para acessar o projeto <a href="pastelaria-omega.vercel.app" target="_blank" style="color: #4a5dcd;">Clique Aqui</a>.
 
 ---
 
