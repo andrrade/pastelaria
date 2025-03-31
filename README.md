@@ -1,36 +1,91 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<p align="center">
+  Este projeto apresenta uma landing page para a Pastelaria do Zé, desenvolvido com Next.js. Ele exibe uma lista de pastéis disponíveis, indicando quais estão em estoque e quais estão esgotados. 🥟✨
+</p>
 
-## Getting Started
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Como Rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-link-do-projeto">Link do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
 
-First, run the development server:
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0F172A&labelColor=1D4ED8">
+</p>
+
+---
+
+## 📂 Projeto
+
+<p align="center">💻 <b>Para PC:</b></p>
+<p align="center">
+  <img alt="Projeto para PC" src="https://github.com/user-attachments/assets/1a2dcf14-cd8c-41d3-87b3-f8247b3e9fcc" width="800px">
+</p>
+
+<p align="center">📱 Para Celular:</b></p>
+<p align="center">
+  <img alt="Projeto para Celular" src="https://github.com/user-attachments/assets/e6133ba9-2351-421b-9446-73a2dfb0024a" width="300px">
+</p>
+
+---
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido utilizando:
+
+- ⚡ **Next.js** - Framework React para aplicações web rápidas.
+- 🎨 **CSS Modules** - Modularização dos estilos.
+
+---
+
+## ▶️ Como Rodar
+
+1. Clone este repositório:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+  git clone https://github.com/andrrade/pastelaria
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Acesse a pasta do projeto:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```bash
+  cd pastelaria
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+3. Instale as dependências:
 
-## Learn More
+```bash
+  npm install
+  # ou
+  yarn install
+```
 
-To learn more about Next.js, take a look at the following resources:
+4. Execute o servidor de desenvolvimento:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+  npm run dev
+  # ou
+  yarn dev
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+5. Acesse [http://localhost:3000](http://localhost:3000) no navegador ou dê um CTRL + clique no link que aparecer.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🔗 Link do Projeto
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Para acessar o projeto <a href="pastelaria-omega.vercel.app
+" target="_blank" style="color: #4a5dcd;">Clique Aqui</a>.
+
+---
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
+<br>
+
+<p align="center">
+  <img alt="Next.js" src="app/assets/logo-nextjs.svg" width="120px" />
+</p>
