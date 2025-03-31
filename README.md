@@ -85,7 +85,3 @@ Para acessar o projeto <a href="pastelaria-omega.vercel.app
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 <br>
-
-<p align="center">
-  <img alt="Next.js" src="app/assets/logo-nextjs.svg" width="120px" />
-</p>
