@@ -75,8 +75,7 @@ Esse projeto foi desenvolvido utilizando:
 
 ## 🔗 Link do Projeto
 
-Para acessar o projeto <a href="pastelaria-omega.vercel.app
-" target="_blank" style="color: #4a5dcd;">Clique Aqui</a>.
+Para acessar o projeto <a href="pastelaria-omega.vercel.app" target="_blank" style="color: #4a5dcd;">Clique Aqui</a>.
 
 ---
 
